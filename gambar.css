@@ -1,0 +1,30 @@
+body {
+  background: #60bfff;
+  font-family: sans-serif;
+}
+
+.gambar{
+	height: 200px;
+	width: 250px;
+}
+
+.tombol {
+  background: #fcfcfc;
+  color: #000000;
+  border: 0;
+  padding: 5px 8px;
+  margin: 20px 0px;
+  float: right;
+}
+
+.back {
+  /*padding: 1em;
+  margin: 2em auto;
+  width: 17em;*/
+  background: #fff;
+  border-radius: 3px;
+}
+
+.f {
+  
+}
